@@ -39,9 +39,9 @@ const format = {
   smoothing: false,
 };
 
-//const extraMetadata = {
-  //external_url: "https://betasportapes.xyz", // Replace with your website or remove this line if you do not have one.
-//};
+const extraMetadata = {
+  external_url: "https://betasportapes.xyz", // Replace with your website or remove this line if you do not have one.
+};
 
 // NFTPort Info
 
